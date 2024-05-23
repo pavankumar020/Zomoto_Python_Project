@@ -43,27 +43,29 @@ Plotly: For interactive visualizations
 #Steps Involved
 
 1. Data Loading and Preprocessing
-The first step involves loading the dataset into a Pandas DataFrame and performing basic preprocessing tasks such as handling missing values, correcting data types, and renaming columns for better readability.
+     The first step involves loading the dataset into a Pandas DataFrame and performing basic preprocessing tasks such as handling missing values, correcting data types, and renaming columns for better 
+     readability.
 
 2. Data Cleaning
-This step includes handling missing values, correcting inconsistent data entries, and transforming columns where necessary.
+     This step includes handling missing values, correcting inconsistent data entries, and transforming columns where necessary.
 
 3. Data Exploration
-Exploring the dataset to understand the distribution of different variables, identifying patterns, and uncovering interesting insights.
+     Exploring the dataset to understand the distribution of different variables, identifying patterns, and uncovering interesting insights.
 
-a. Distribution of Restaurant Ratings
-b. Most Popular Cuisines
-c. Relationship Between Cost and Rating
+   a. Distribution of Restaurant Ratings
+   b. Most Popular Cuisines
+   c. Relationship Between Cost and Rating
 
 4. Geographic Analysis
-Analyzing the geographic distribution of restaurants to identify trends based on location.
+     Analyzing the geographic distribution of restaurants to identify trends based on location.
 
-a. Restaurants by Country
+     a. Restaurants by Country
 
 5. Interactive Visualizations
-Using Plotly to create interactive visualizations for a more engaging exploration of the data.
+    Using Plotly to create interactive visualizations for a more engaging exploration of the data.
 
-a. Interactive Map of Restaurant Locations
+    a. Interactive Map of Restaurant Locations
 
 Conclusion
+
 Through this exploratory data analysis, we have uncovered various insights into the restaurant industry, such as popular cuisines, the relationship between cost and ratings, and geographic trends. These insights can help businesses and consumers make more informed decisions.
