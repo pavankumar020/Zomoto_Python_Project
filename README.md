@@ -1,10 +1,10 @@
 # Zomoto_Python_Project
 
-#Introduction
+# Introduction
 
 This project involves performing exploratory data analysis (EDA) on a dataset obtained from Zomato, a popular restaurant discovery and food delivery platform. The primary goal is to extract meaningful insights from the data, which can be used to understand various trends and patterns in the restaurant industry.
 
-#Dataset
+# Dataset
 
 The dataset used for this analysis contains information about restaurants, including details such as name, location, cuisine, ratings, cost, and more. The dataset is assumed to be in CSV format and includes the following columns:
 
@@ -30,7 +30,7 @@ Rating color
 Rating text
 Votes
 
-#Tools and Libraries
+# Tools and Libraries
 
 The analysis is performed using Python, leveraging the following libraries:
 
@@ -40,7 +40,7 @@ Matplotlib: For data visualization
 Seaborn: For advanced data visualization
 Plotly: For interactive visualizations
 
-#Steps Involved
+# Steps Involved
 
 1. Data Loading and Preprocessing
      The first step involves loading the dataset into a Pandas DataFrame and performing basic preprocessing tasks such as handling missing values, correcting data types, and renaming columns for better 
